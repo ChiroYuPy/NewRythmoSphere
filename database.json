@@ -1,0 +1,203 @@
+{
+    "0001": {
+        "beatmap_name": "Felis",
+        "difficulties": {
+            "Present": {
+                "bg_name": "image",
+                "bg_ext": "jpg",
+                "preview_time": "46.430",
+                "creator": "ChiroYuki"
+            },
+            "Future": {
+                "bg_name": "image",
+                "bg_ext": "jpg",
+                "preview_time": "46.430",
+                "creator": "ChiroYuki"
+            },
+            "Beyond": {
+                "bg_name": "image",
+                "bg_ext": "jpg",
+                "preview_time": "46.430",
+                "creator": "ChiroYuki"
+            },
+            "Past": {
+                "bg_name": "image",
+                "bg_ext": "jpg",
+                "preview_time": "46.430",
+                "creator": "ChiroYuki"
+            }
+        },
+        "song_name": "song",
+        "song_ext": "mp3",
+        "preview_time": "46.430",
+        "artist": "M2U"
+    },
+    "0002": {
+        "beatmap_name": "Granat",
+        "difficulties": {
+            "Insane": {
+                "bg_name": "image",
+                "bg_ext": "jpg",
+                "preview_time": "0.281",
+                "creator": "ChiroYuki"
+            },
+            "Hard": {
+                "bg_name": "image",
+                "bg_ext": "jpg",
+                "preview_time": "0.281",
+                "creator": "ChiroYuki"
+            },
+            "Easy": {
+                "bg_name": "image",
+                "bg_ext": "jpg",
+                "preview_time": "0.281",
+                "creator": "ChiroYuki"
+            }
+        },
+        "song_name": "song",
+        "song_ext": "mp3",
+        "preview_time": "0.281",
+        "artist": "Drop"
+    },
+    "0003": {
+        "beatmap_name": "Guinea Pig Bridge",
+        "difficulties": {
+            "Light Insane": {
+                "bg_name": "BG",
+                "bg_ext": "jpg",
+                "preview_time": "25.748",
+                "creator": "ChiroYuki"
+            },
+            "Insane": {
+                "bg_name": "BG",
+                "bg_ext": "jpg",
+                "preview_time": "25.748",
+                "creator": "ChiroYuki"
+            },
+            "Reform's Expert": {
+                "bg_name": "BG",
+                "bg_ext": "jpg",
+                "preview_time": "25.748",
+                "creator": "ChiroYuki"
+            },
+            "Hard": {
+                "bg_name": "BG",
+                "bg_ext": "jpg",
+                "preview_time": "25.748",
+                "creator": "ChiroYuki"
+            },
+            "Guinea Pig Technology": {
+                "bg_name": "BG",
+                "bg_ext": "jpg",
+                "preview_time": "25.748",
+                "creator": "ChiroYuki"
+            },
+            "Normal": {
+                "bg_name": "BG",
+                "bg_ext": "jpg",
+                "preview_time": "25.748",
+                "creator": "ChiroYuki"
+            }
+        },
+        "song_name": "audio",
+        "song_ext": "mp3",
+        "preview_time": "25.748",
+        "artist": "Parry Gripp"
+    },
+    "0004": {
+        "beatmap_name": "PUMP",
+        "difficulties": {
+            "you should love yourself now": {
+                "bg_name": "bg",
+                "bg_ext": "jpg",
+                "preview_time": "67.663",
+                "creator": "ChiroYuki"
+            },
+            "eterdesp's insane": {
+                "bg_name": "bg",
+                "bg_ext": "jpg",
+                "preview_time": "67.663",
+                "creator": "ChiroYuki"
+            },
+            "ryxliee & tachi's hard": {
+                "bg_name": "bg",
+                "bg_ext": "jpg",
+                "preview_time": "67.663",
+                "creator": "ChiroYuki"
+            },
+            "alvearia's kitten expert": {
+                "bg_name": "bg",
+                "bg_ext": "jpg",
+                "preview_time": "67.663",
+                "creator": "ChiroYuki"
+            },
+            "sayuka's lovely expert": {
+                "bg_name": "bg",
+                "bg_ext": "jpg",
+                "preview_time": "67.663",
+                "creator": "ChiroYuki"
+            },
+            "chitose's normal": {
+                "bg_name": "bg",
+                "bg_ext": "jpg",
+                "preview_time": "67.663",
+                "creator": "ChiroYuki"
+            },
+            "stompy's easy": {
+                "bg_name": "bg",
+                "bg_ext": "jpg",
+                "preview_time": "67.663",
+                "creator": "ChiroYuki"
+            }
+        },
+        "song_name": "audio",
+        "song_ext": "mp3",
+        "preview_time": "67.663",
+        "artist": "YUC'e"
+    },
+    "0005": {
+        "beatmap_name": "Usagi Flap",
+        "difficulties": {
+            "Insane": {
+                "bg_name": "Ayyri",
+                "bg_ext": "jpg",
+                "preview_time": "79.227",
+                "creator": "ChiroYuki"
+            },
+            "Extra": {
+                "bg_name": "Ayyri",
+                "bg_ext": "jpg",
+                "preview_time": "79.227",
+                "creator": "ChiroYuki"
+            },
+            "Expert": {
+                "bg_name": "Ayyri",
+                "bg_ext": "jpg",
+                "preview_time": "79.227",
+                "creator": "ChiroYuki"
+            },
+            "Hard": {
+                "bg_name": "Ayyri",
+                "bg_ext": "jpg",
+                "preview_time": "79.227",
+                "creator": "ChiroYuki"
+            },
+            "Easy": {
+                "bg_name": "Ayyri",
+                "bg_ext": "jpg",
+                "preview_time": "79.227",
+                "creator": "ChiroYuki"
+            },
+            "Normal": {
+                "bg_name": "Ayyri",
+                "bg_ext": "jpg",
+                "preview_time": "79.227",
+                "creator": "ChiroYuki"
+            }
+        },
+        "song_name": "audio",
+        "song_ext": "ogg",
+        "preview_time": "79.227",
+        "artist": "Nor"
+    }
+}
